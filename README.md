@@ -1,2 +1,2 @@
 # docker-static
-A simple static hosting service
+A very simple static hosting service
