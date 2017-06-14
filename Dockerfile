@@ -1,3 +1,4 @@
 FROM nginx:alpine
-RUN apk add git
+RUN pwd
+ENV FORTITUDE=welcome
 COPY ./data /usr/share/nginx/html
